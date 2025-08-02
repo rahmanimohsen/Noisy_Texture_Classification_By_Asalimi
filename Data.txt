@@ -1,0 +1,10 @@
+Data Download Links:
+
+CUReT Dataset:
+https://www.cs.columbia.edu/CAVE/software/curet/
+
+Outex23 Dataset:
+https://color.univ-lille.fr/datasets/extended-outex
+
+UIUC Dataset:
+https://drive.google.com/file/d/1wWb7QdcfZ1SDf5HKZa-SJo2csq7Hgavk/view?usp=sharing
